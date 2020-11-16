@@ -1,2 +1,0 @@
-# java-std
-java-std
